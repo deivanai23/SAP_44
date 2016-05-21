@@ -1,7 +1,7 @@
 class ZAQ_TEST definition
   public
   final
-  create public .
+  create public .utgyfyhtgfhgfv
 
 public section.
 
