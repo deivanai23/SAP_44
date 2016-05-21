@@ -9,5 +9,5 @@ public section.
   class-data TEST1 type CHAR1 value 'Y'. "#EC NOTEXT .
   class-data TEST2 type CHAR1 .
 
-  methods CONSTRUCTOR .
+  methods CONSTRUCTOR .sdf
   class-methods HELLOWORLD .
