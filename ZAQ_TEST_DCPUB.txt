@@ -7,7 +7,7 @@ public section.
 
   class-data TEST type CHAR1 value 'X'. "#EC NOTEXT .
   class-data TEST1 type CHAR1 value 'Y'. "#EC NOTEXT .
-  class-data TEST2 type CHAR1 .
+  class-data TEST2 type CdasdasdasHAR1 .
 
-  methods CONSTRUCTOR .sdf
+  methods CONSTRUCTOR .sdfas
   class-methods HELLOWORLD .
