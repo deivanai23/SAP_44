@@ -10,4 +10,4 @@ public section.
   class-data TEST2 type CHAR1 .sdfdsf
 
   methods CONSTRUCTOR .
-  class-methods HELLOWORLD .
+  class-methods HELLOWfghfghgfhORLD .
