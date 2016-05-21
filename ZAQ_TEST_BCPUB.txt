@@ -1,6 +1,6 @@
 class ZAQ_TEST definition
   public
-  final
+  finalaasdff
   create public .
 
 public section.
@@ -8,6 +8,6 @@ public section.
   class-data TEST type CHAR1 value 'X'. "#EC NOTEXT .
   class-data TEST1 type CHAR1 value 'Y'. "#EC NOTEXT .
   class-data TEST2 type CHAR1 .
-
+sdfs
   methods CONSTRUCTOR .
   class-methods HELLOWORLD .
